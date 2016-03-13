@@ -15,4 +15,4 @@ We're looking to host a one-day, single-track summit, bringing together designer
 
 ###Other nice conferences
 * [Cocoa Love] (http://cocoalove.org/) - 3 days, Philadelphia, targeting Apple developers
-* [Úll] (http://2015.ull.ie/) - 2 days, Ireland [2014](http://2014.ull.ie/)
+* [Úll] (http://2015.ull.ie/) - 2 days, Ireland [(2014)](http://2014.ull.ie/)
