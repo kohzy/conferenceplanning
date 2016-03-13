@@ -11,6 +11,7 @@ Here's a collection of good resources I found for the first-time conference plan
 
 ###Comparable conferences (1-day/single-track/200 people/cross-disciplinary/autism)
 We're looking to host a one-day, single-track summit, bringing together designers and makers that hail from disciplines but share a common trait: they all create solutions (beyond therapies) that help autistic individuals.
+* [Industry Conf] (https://industryconf.com/) - 1 day, across front-end design and dev, UK, slightly more exp (200 pounds)
 * [Break Conference] (http://breakconf.org/) - 3 days, Belfast, similar in cross-design disciplines
 * [HBS Marketing CPG Conference] (http://www.mcpginnovationconference.com/) - 1 day, similar price point - $70
 * [HarvardxDesign] (http://harvardxdesign16.com/#failurexdesign) - 1 day, design, similar price point - $30
