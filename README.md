@@ -9,7 +9,10 @@ Here's a collection of good resources I found for the first-time conference plan
 * [Handbook for open-source software community conference organisers] (http://conference-handbook.readthedocs.org/index.html) - based on the experience of the organiser of DjangoCon and PyCon
 
 
-###Comparable conferences
+###Comparable conferences (1-day/single-track/cross-disciplinary/autism)
 We're looking to host a one-day, single-track summit, bringing together designers and makers that hail from disciplines but share a common trait: they all create solutions (beyond therapies) that help autistic individuals.
 * [Break Conference] (http://breakconf.org/) - 3 days, Belfast, across design disciplines
+
+###Other nice conferences
 * [Cocoa Love] (http://cocoalove.org/) - 3 days, Philadelphia, targeting Apple developers
+* [Úll] (http://2015.ull.ie/) - 2 days, Ireland
