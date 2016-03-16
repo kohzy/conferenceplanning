@@ -10,6 +10,7 @@ Here's a collection of good resources I found for the first-time conference plan
 * [Handbook for open-source software community conference organisers] (http://conference-handbook.readthedocs.org/index.html) - based on the experience of the organiser of DjangoCon and PyCon
 * [Planning an Accessible Conference] (http://www.sigaccess.org/welcome-to-sigaccess/resources/accessible-conference-guide/)
 * [7 ways to make your next conference a complete success] (https://www.import.io/post/7-ways-to-make-your-next-conference-a-complete-success/)
+* [How to organize a tech conference] (http://www.xaprb.com/blog/2015/10/06/organizing-conferences/)
 
 
 ###Comparable conferences (1-day/single-track/200 people/cross-disciplinary/autism)
