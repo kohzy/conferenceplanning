@@ -7,6 +7,7 @@ Here's a collection of good resources I found for the first-time conference plan
 * [5 Tips To Reduce Conference Awkwardness] (http://blog.tito.io/posts/5-tips-to-reduce-conference-awkwardness/)
 * [Look After Your Speakers] (http://blog.tito.io/posts/look-after-your-speakers/)
 * [Conference organiser's handbook] (http://www.quirksmode.org/coh/)
+* [Mastering the Art of Sparking Connections] (http://sparkcamp.com/sparking-connections/) - by the creators of Spark Camp
 * [Handbook for open-source software community conference organisers] (http://conference-handbook.readthedocs.org/index.html) - based on the experience of the organiser of DjangoCon and PyCon
 * [Planning an Accessible Conference] (http://www.sigaccess.org/welcome-to-sigaccess/resources/accessible-conference-guide/)
 * [7 ways to make your next conference a complete success] (https://www.import.io/post/7-ways-to-make-your-next-conference-a-complete-success/)
@@ -21,6 +22,7 @@ We're looking to host a one-day, single-track summit, bringing together designer
 * [Break Conference] (http://breakconf.org/) - 3 days, Belfast, similar in cross-design disciplines
 * [HBS Marketing CPG Conference] (http://www.mcpginnovationconference.com/) - 1 day, similar price point - $70
 * [HarvardxDesign] (http://harvardxdesign16.com/#failurexdesign) - 1 day, design, similar price point - $30
+* [Spark Camp] (http://sparkcamp.com/#) 
 
 
 ###Other nice conferences
